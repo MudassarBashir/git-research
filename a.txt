@@ -1,4 +1,5 @@
 Line 1 written in master.
-Line 2 written in br1.
+Changed Line 2 in br1.
 Line 3 written in master.
 Line 4 written in master.
+Add line 5 in br1.
