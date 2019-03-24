@@ -1,4 +1,0 @@
-Line 1 written in master.
-Line 2 written in br1.
-Line 3 written in master.
-Line 4 written in master.
